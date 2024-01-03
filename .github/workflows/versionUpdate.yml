@@ -21,4 +21,4 @@ jobs:
           -f body='Description of the release' \
           -F draft=false \
           -F prerelease=false \
-          -F generate_release_notes=false
+          -F generate_release_notes=false 
